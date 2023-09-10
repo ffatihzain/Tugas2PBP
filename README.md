@@ -1,0 +1,4 @@
+Tes
+Satu 
+Dua
+Tiga
